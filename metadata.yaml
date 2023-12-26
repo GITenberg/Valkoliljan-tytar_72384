@@ -1,0 +1,30 @@
+_repo: Valkoliljan-tytar_72384
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lowe, Clara M. S.
+    gutenberg_agent_id: '2172'
+    url: http://www.gutenberg.org/2009/agents/2172
+creator:
+  author:
+    agent_name: Runa
+    gutenberg_agent_id: '56664'
+    url: http://www.gutenberg.org/2009/agents/56664
+description: ''
+gutenberg_issued: '2023-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72384'
+language: fi
+pgterms:marc905: 20231207033423runa
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Valkoliljan tytär
+url: http://www.gutenberg.org/ebooks/72384
