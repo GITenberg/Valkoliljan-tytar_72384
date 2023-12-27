@@ -5,12 +5,17 @@ contributor:
     agent_name: Lowe, Clara M. S.
     gutenberg_agent_id: '2172'
     url: http://www.gutenberg.org/2009/agents/2172
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Runa
     gutenberg_agent_id: '56664'
     url: http://www.gutenberg.org/2009/agents/56664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72384#Valkoliljan-tytar
 gutenberg_issued: '2023-12-12'
 gutenberg_type: Text
 identifiers:
